@@ -2,8 +2,7 @@
 
 <p> 
   This cool QR Code is in fact... a link to my Socials Folks ! <br>
-  <img src="https://camo.githubusercontent.com/8a37ebacef75b7347303b4f3cd32701b64d43498f9878b648b261e32f5308b3c/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a616464693030303030">
-    <br>
+  <br>
   <img src="http://envoie-la-puree.eu5.org/images/Jeux/qrcode_david.png" width="400" height="400"/>
 <br>
   <strong>Illustration réalisée sur :
