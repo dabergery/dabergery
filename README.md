@@ -18,16 +18,13 @@
 <img src="https://img.shields.io/badge/calculusgithub-%23563D7C.svg?&style=for-the-badge&logo=gitlab&logoColor=black">
 </a> 
 <br>
-## Score qux examens de ls piscine
-<img src="http://envoie-la-puree.eu5.org/images/2023-09-20%2000_34_57-Intra%20Projects%20C%20Piscine%20Shell%2000.png" width="600" height="300"/>
-<br>
 <hr>
 
 ### Here are some ideas to help you get started:
 
 - 🔭 Je travaille actuellement en freelance chez <strong>Deutsche Telekom - Cybersécurité</strong>
 - 🌱 créateur de dessins illustratif <strong>manga/BD/paysages.</strong>
-- 💬 Sections developpeurs posez vos questions sur <strong>les programmes en C, C++, Web applicatif comme NodeJS, la 3D numerique des Shaders OpenGL.
+- 💬 Apprentissage du language C, powerhsell, python,je tiens une chaine Youtubeou je publie des animation 3D, des clips musicaux aux sythétiseur.
 - 😄 Je lit des livre traitant la philosophie du monde et de l'etonnement humains.
 - ⚡ Un conseil, une galere sur votre PC ou telephone, je peut vous apporter une solution a toute votre electronique.
 
