@@ -1,14 +1,9 @@
 # Bonjour c'est David BERGER ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
-  This cool QR Code is in fact... a link to my Socials Folks ! <br>
-  <br>
-  <img src="http://envoie-la-puree.eu5.org/images/Jeux/qrcode_david.png" width="400" height="400"/>
-<br>
-  <strong>Illustration réalisée sur :
-  <br>
-https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator</strong>
 
+https://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gif
+  
 </p>
 
 ### Comment me retrouver sur les réseaux
