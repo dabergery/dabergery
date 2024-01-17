@@ -15,20 +15,23 @@
 </a> 
 <br>
 <hr>
-### Dernier projet en date
-<p> 
-  un scrpit powershell qui tape dans les serveurs de l'etats pour recuperer des données d'entreprise.
-<img src="https://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gif"/>  
-</p>
-<hr>
 
-### Here are some ideas to help you get started:
+### Retrouvez tous mes centres d'interets ici :
 
 - 🌱 créateur de dessins illustratif <strong>manga/BD/paysages.</strong>
 - 💬 Code : language C, Powershell, Python.
 - 🎥 je tiens une chaine Youtube ou je publie des animation 3D, des clips musicaux joué au sythétiseur.
 - ⚡ Un conseil, une galere sur votre PC ou telephone, je peut vous apporter une solution a toute votre electronique.
 - 😄 Je lit des livre traitant la philosophie du monde et de l'etonnement humains.
+
+# Dernier projet en date
+<p> 
+  un script Powershell qui tape dans les serveurs de l'etats pour recuperer des données d'entreprise.
+  <br>
+  <br>
+<img src="https://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gif"/>  
+</p>
+<hr>
 
 ### Les outils d'un developpeur : 🛠
 
@@ -41,5 +44,5 @@
 </a>
 
 #### Merci les mecs -🙏🏼
+⭐️ support ( https://oeuf-molet.000webhostapp.com )
 
-⭐️ support ( https://oeuf-molet.000webhostapp.com/)https://oeuf-molet.000webhostapp.com )
