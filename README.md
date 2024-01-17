@@ -1,7 +1,7 @@
 # Bonjour c'est David BERGER ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
-<img src="https://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gifhttps://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gif"/>  
+<img src="https://cloud.githubusercontent.com/assets/4694092/13901134/38e4b60c-edd7-11e5-956c-4cb1bdb4bc63.gif"/>  
 </p>
 
 ### Comment me retrouver sur les réseaux
@@ -11,7 +11,7 @@
 <a  href="https://www.instagram.com/davidos_insta2/">
   <img src="https://img.shields.io/badge/@davidosinsta2-%23D17536.svg?&style=for-the-badge&logo=instagram&logoColor=black" >
 </a>
-<a  href="[http://envoie-la-puree.eu5.org](https://oeuf-molet.000webhostapp.com/)">
+<a  href="https://oeuf-molet.000webhostapp.com">
   <img src="https://img.shields.io/badge/@Mon site-%7315150E.svg?&style=for-the-badge&logo=threads&logoColor=white">
 </a> 
 <a  href="https://github.com/calculus-github?tab=repositories">
