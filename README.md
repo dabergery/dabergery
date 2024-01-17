@@ -22,11 +22,11 @@
 
 ### Here are some ideas to help you get started:
 
-- 🔭 Je travaille actuellement en freelance chez <strong>Deutsche Telekom - Cybersécurité</strong>
 - 🌱 créateur de dessins illustratif <strong>manga/BD/paysages.</strong>
-- 💬 Apprentissage du language C, powerhsell, python,je tiens une chaine Youtubeou je publie des animation 3D, des clips musicaux aux sythétiseur.
-- 😄 Je lit des livre traitant la philosophie du monde et de l'etonnement humains.
+- 💬 Code : language C, Powershell, Python.
+- 🎥 je tiens une chaine Youtube ou je publie des animation 3D, des clips musicaux joué au sythétiseur.
 - ⚡ Un conseil, une galere sur votre PC ou telephone, je peut vous apporter une solution a toute votre electronique.
+- 😄 Je lit des livre traitant la philosophie du monde et de l'etonnement humains.
 
 ### Les outils d'un developpeur : 🛠
 <a  href="https://pythontutor.com/render.html#mode=edit">
@@ -52,4 +52,4 @@
 
 #### Merci les mecs -🙏🏼
 
-⭐️ support [Sharannyo Basu](https://github.com/sharannyobasu)
+⭐️ support [[Sharannyo Basu](https://github.com/sharannyobasu)](https://oeuf-molet.000webhostapp.com/)https://oeuf-molet.000webhostapp.com/
