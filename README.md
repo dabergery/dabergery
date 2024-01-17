@@ -1,9 +1,7 @@
 # Bonjour c'est David BERGER ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
-
-https://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gif
-  
+<img src="https://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gifhttps://github.com/dabergery/Entreprise-Siret/blob/main/Entreprise.Siren.gif"/>  
 </p>
 
 ### Comment me retrouver sur les réseaux
