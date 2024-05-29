@@ -1,6 +1,6 @@
 # Bonjour c'est David BERGER ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-<img src="https://github.com/dabergery/main/blob/main/face.gif" width="600px">
+<img src="https://github.com/dabergery/main/blob/main/face.gif" width="900px">
 ### Comment me retrouver sur les réseaux
 <a  href="https://www.youtube.com/@calculus-youtube">
   <img src="https://img.shields.io/badge/@calculusyoutube-%231572B6.svg?&style=for-the-badge&logo=youtube&logoColor=white">
